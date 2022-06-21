@@ -1,0 +1,2 @@
+Hello, 
+This is a web project which I will work on throughout my web learning journey to test out my skills. Thus, if you see any "error" or "bad practices" it's mostly deliberate. Anyway, the theme is one that I like and this gives me motivation to make the website better. 
